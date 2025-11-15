@@ -40,7 +40,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-логин/real-estate-manager.git
+   git clone https://github.com/RascallySine18/realme-estate-app.git
 2. Установите зависимости:
    ```bash
    pip install PyQt5
